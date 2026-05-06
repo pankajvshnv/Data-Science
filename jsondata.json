@@ -1,0 +1,10 @@
+{
+    "name": "pankaj",
+    "age": 23,
+    "branch": "CSE",
+    "skills": [
+        "python",
+        "java",
+        "c++"
+    ]
+}
