@@ -1,0 +1,101 @@
+sentence,sentiment,emotion_type
+I am really happy with the results.,positive,joy
+This is the best day I have had in months.,positive,excitement
+I cannot stop smiling after hearing the news.,positive,joy
+I finally achieved my goal.,positive,pride
+Spending time with my family makes me happy.,positive,love
+The team did an excellent job on this project.,positive,admiration
+I feel calm and relaxed today.,positive,peace
+That surprise made my entire week.,positive,surprise
+I am grateful for all the support I received.,positive,gratitude
+The movie was wonderful and inspiring.,positive,admiration
+I am excited about starting my new job.,positive,excitement
+She helped me when nobody else did.,positive,gratitude
+I feel confident about the presentation.,positive,confidence
+We had a lovely evening together.,positive,love
+I am proud of how far I have come.,positive,pride
+The results were better than I expected.,positive,satisfaction
+I feel hopeful about the future.,positive,hope
+That was a thoughtful thing to do.,positive,appreciation
+The peaceful music helped me unwind.,positive,peace
+I am looking forward to the weekend.,positive,anticipation
+Your message made me feel appreciated.,positive,gratitude
+I love learning new things every day.,positive,interest
+The presentation was clear and impressive.,positive,admiration
+I feel lucky to have such good friends.,positive,gratitude
+We solved the problem together.,positive,satisfaction
+I am thrilled that our idea worked.,positive,excitement
+The little puppy is adorable.,positive,affection
+I feel much better after talking to you.,positive,relief
+This place makes me feel at home.,positive,comfort
+I am eager to see what happens next.,positive,anticipation
+I am disappointed that the event was cancelled.,negative,disappointment
+I feel sad about losing my old friend.,negative,sadness
+This situation is making me very angry.,negative,anger
+I am worried about the upcoming exam.,negative,worry
+The constant noise is irritating me.,negative,annoyance
+I regret saying those hurtful words.,negative,regret
+I feel lonely even when people are around.,negative,loneliness
+The unfair decision made everyone upset.,negative,frustration
+I am scared of what might happen next.,negative,fear
+That comment was deeply insulting.,negative,hurt
+I miss the way things used to be.,negative,nostalgia
+I am exhausted and cannot focus anymore.,negative,fatigue
+Nothing seems to be going right today.,negative,frustration
+I feel guilty about forgetting her birthday.,negative,guilt
+The ending of the story was heartbreaking.,negative,sadness
+I hate being ignored during conversations.,negative,anger
+I am anxious about speaking in public.,negative,anxiety
+The delay has caused a lot of trouble.,negative,frustration
+I feel embarrassed about my mistake.,negative,embarrassment
+It hurts when people break their promises.,negative,hurt
+I am fed up with these repeated problems.,negative,annoyance
+The loss left the whole family devastated.,negative,grief
+I feel helpless because I cannot change anything.,negative,helplessness
+That experience made me lose my confidence.,negative,insecurity
+I am frustrated with how slowly this works.,negative,frustration
+I feel ashamed of how I behaved yesterday.,negative,shame
+The criticism made me doubt myself.,negative,self_doubt
+I am afraid of making the same mistake again.,negative,fear
+This rude behavior is unacceptable.,negative,disapproval
+I feel overwhelmed by all these responsibilities.,negative,stress
+The meeting starts at ten in the morning.,neutral,neutral
+I bought a notebook from the nearby store.,neutral,neutral
+The report contains five sections.,neutral,neutral
+She is traveling to Delhi tomorrow.,neutral,neutral
+Please send me the updated document.,neutral,neutral
+The package arrived this afternoon.,neutral,neutral
+Our class has a test on Monday.,neutral,neutral
+The laptop has sixteen gigabytes of memory.,neutral,neutral
+He usually drinks tea after lunch.,neutral,neutral
+The train leaves from platform number four.,neutral,neutral
+I need to charge my phone.,neutral,neutral
+The office is located near the main road.,neutral,neutral
+There are three people waiting outside.,neutral,neutral
+The application was updated last night.,neutral,neutral
+We discussed the project requirements today.,neutral,neutral
+The shop closes at nine tonight.,neutral,neutral
+This file contains customer feedback.,neutral,neutral
+He works as a software developer.,neutral,neutral
+The weather forecast says it may rain.,neutral,neutral
+I have not decided what to order.,neutral,uncertainty
+Maybe we should review the plan again.,neutral,uncertainty
+I wonder why the system stopped working.,neutral,curiosity
+The instructions are not completely clear.,neutral,confusion
+I am waiting to hear the final decision.,neutral,anticipation
+That result is unexpected.,neutral,surprise
+I am not sure which option is correct.,neutral,uncertainty
+Could you explain how this feature works?,neutral,curiosity
+The new policy will take effect next month.,neutral,neutral
+I noticed a change in the dashboard.,neutral,neutral
+The document may need another review.,neutral,uncertainty
+It is difficult to understand this error message.,neutral,confusion
+The speaker paused before answering.,neutral,neutral
+I expected a different result from the test.,neutral,surprise
+We will discuss the remaining tasks tomorrow.,neutral,neutral
+The data is stored in a separate folder.,neutral,neutral
+I am curious about the reason for this change.,neutral,curiosity
+The customer has requested more information.,neutral,neutral
+I cannot tell whether the message is serious.,neutral,uncertainty
+The server stores the files in a separate directory.,neutral,neutral
+The form requires a valid email address.,neutral,neutral
